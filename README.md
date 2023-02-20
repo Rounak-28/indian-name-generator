@@ -1,1 +1,1 @@
-This is practice project following [karpathy's playlist](https://www.youtube.com/watch?v=VMj-3S1tku0&list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ) but with Indian names dataset from [this](https://www.kaggle.com/datasets/meemr5/indian-names-boys-girls) kaggle dataset
+This is practice project following [karpathy's playlist](https://www.youtube.com/watch?v=VMj-3S1tku0&list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ) but with Indian names dataset I found on [kaggle](https://www.kaggle.com/datasets/meemr5/indian-names-boys-girls)
